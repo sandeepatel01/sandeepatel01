@@ -32,6 +32,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepatel01&" alt="sandeepatel01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepatel01&show_icons=true&locale=en" alt="sandeepatel01" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepatel01&show_icons=true&locale=en&layout=compact" alt="sandeepatel01" /></p>
+<br
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khushitelii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sandeepatel01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=khushitelii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
