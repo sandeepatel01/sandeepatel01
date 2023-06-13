@@ -36,10 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepatel01&" alt="sandeepatel01" /></p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandeepatel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandeepatel01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
