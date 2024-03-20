@@ -1,4 +1,3 @@
-![logo](https://github.com/sandeepatel01/sandeepatel01/blob/main/Sandeep%20patel.png)
 
 
 <h1 align="center">Hi 👋, I'm Sandeep </h1>
