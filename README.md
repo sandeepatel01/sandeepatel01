@@ -21,7 +21,6 @@
 - [Tech Jargons Words](https://vintage-blouse-1cf.notion.site/Tech-Jargons-Words-17a13aec5ccb808092ccd5a8f7bd7795)
 <!-- BLOG-POST-LIST:END -->
 
-
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sandeepatel01/5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepatel.0" height="30" width="40" /></a>
@@ -130,4 +129,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepatel01&" alt="sandeepatel01" /></p>
 
+### 🔝 Top Contributed Repo
+
+https://github-contributor-stats.vercel.app/api?username=sandeepatel01&limit=5&theme=dark&combine_all_yearly_contributions=true
 
