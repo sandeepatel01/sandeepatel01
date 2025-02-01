@@ -130,6 +130,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepatel01&" alt="sandeepatel01" /></p>
 
 ### 🔝 Top Contributed Repo
-
-https://github-contributor-stats.vercel.app/api?username=sandeepatel01&limit=5&theme=dark&combine_all_yearly_contributions=true
-
+![](https://github-contributor-stats.vercel.app/api?username=sandeepatel01&limit=5&theme=dark&combine_all_yearly_contributions=true)
