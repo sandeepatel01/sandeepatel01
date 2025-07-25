@@ -5,16 +5,15 @@
   </a>
 </p>
 
-<!-- Social Media Links -->
-<div align="center">
+<br/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@sandeepatel0-1ca0f1?style=flat&logo=x&logoColor=white&link=https://twitter.com/sandeepatel0)](https://twitter.com/sandeepatel0)
-&nbsp;&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-sandeepatel01-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeepatel01/)](https://www.linkedin.com/in/sandeepatel01/)
-&nbsp;&nbsp;
-[![Mail Badge](https://img.shields.io/badge/-sandeep788@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:sandeep788@gmail.com)
+<!-- Social Media Links -->
+<div align= center>
+
+[![Twitter Badge](https://img.shields.io/badge/-@sandeepatel0-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/yntpdotme)](https://twitter.com/sandeepatel0) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/@sandeepatel01-0e76a8)](https://www.linkedin.com/in/sandeepatel01/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-sandeep788@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:sandeep788@gmail.com)
 
 </div>
+
 
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> &nbsp; Hi there!
