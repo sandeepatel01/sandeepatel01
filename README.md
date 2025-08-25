@@ -1,11 +1,12 @@
 <!-- Profile Trophy Section -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandeepatel01&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
 
-<br/>
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=sandeepatel01&theme=onedark&row=1&column=6" alt="GitHub Trophies" /> -->
+<!--   </a> -->
+<!-- </p> -->
+
+<br/> 
 
 <!-- Social Media Links -->
 <div align= center>
